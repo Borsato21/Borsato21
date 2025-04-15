@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Ola 👋! Meu nome é Vítor Silva Borsato tenho 18 anos sou de Osasco SP, estou cursando Engenharia de software na FIAP e tenho técnico em ADS feito na FITO</p>
+
 ###
 
 <h2 align="left">Sobre mim:</h2>
@@ -21,7 +22,6 @@
   🎹 Nas horas vagas, estudo teclado e música<br>
   🎲 Curiosidade: Sou apaixonado por tecnologia desde pequeno!
 </p>
-
 
 ###
 
