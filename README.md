@@ -1,13 +1,12 @@
 <h1 align="left">Vítor Borsato</h1>
 
-###
+
 
 <p align="left">Ola 👋! Meu nome é Vítor Silva Borsato tenho 18 anos sou de Osasco SP, estou cursando Engenharia de software na FIAP e tenho técnico em ADS feito na FITO</p>
-###
+
 
 <h2 align="left">Sobre mim:</h2>
 
-###
 
 <p align="left">
   ✨ Adoro me divertir enquanto aprendo<br>
